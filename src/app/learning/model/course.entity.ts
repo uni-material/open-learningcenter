@@ -9,5 +9,4 @@ export class Course {
     this.tittle = course.title || '';
     this.description = course.description || '';
   }
-
 }
